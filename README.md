@@ -8,7 +8,7 @@ Applied CS Skills is a free online course by Google designed to prepare you for 
 | Workshop | Presentation | Code  |
 | ------------- |:-------------:| -------:|
 | anagrams     | [presentation](https://github.com/opticod/appliedcsskills/blob/master/anagrams/Presentation.pdf) | [link](https://github.com/opticod/appliedcsskills/tree/master/anagrams/anagrams_code) |
-|  |  |  |
+| scarne's dice  | [presentation](https://github.com/opticod/appliedcsskills/blob/master/scarne_dice/Presentation.pdf) | [link](https://github.com/opticod/appliedcsskills/tree/master/scarne_dice/scarne_dice_code) |
 
 ### Organisers
 
